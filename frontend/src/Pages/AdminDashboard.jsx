@@ -1,5 +1,4 @@
 import React from "react";
-import ComplaintForm from "../Components/ComplaintForm";
 import ComplaintTable from "../Components/ComplaintTable";
 
 const AdminDashboard = ({ isAdmin }) => {
